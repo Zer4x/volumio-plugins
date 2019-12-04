@@ -609,6 +609,24 @@
 						}
 					],
 					"updated": "29-3-2019"
+				},
+				{
+					"prettyName": "gpio_sensors",
+					"icon": "fa-lightbulb-o",
+					"name": "gpio_sensors",
+					"version": "1.0.1",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/system_controller/gpio_sensors/gpio_sensors.zip",
+					"license": "ISC",
+					"description": "passing sensors leads to increasing or decreasing music volume",
+					"details": "sensors detect peoples movements and adjust the music volume in single rooms by that ",
+					"author": "Zer4x",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "4-12-2019"
 				}
 			]
 		},
