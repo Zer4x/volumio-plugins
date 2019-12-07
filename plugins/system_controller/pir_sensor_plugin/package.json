@@ -1,0 +1,21 @@
+{
+	"name": "pir_sensor_plugin",
+	"version": "1.0.1",
+	"description": "connected Pir Sensor should register passing people",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "zer4x",
+	"license": "ISC",
+	"volumio_info": {
+		"prettyName": "Pir_sensor_plugin",
+		"icon": "fa-lightbulb-o",
+		"plugin_type": "system_controller"
+	},
+	"dependencies": {
+		"fs-extra": "^0.28.0",
+		"kew": "^0.7.0",
+		"v-conf": "^1.4.0"
+	}
+}

@@ -627,6 +627,24 @@
 						}
 					],
 					"updated": "4-12-2019"
+				},
+				{
+					"prettyName": "Pir_sensor_plugin",
+					"icon": "fa-lightbulb-o",
+					"name": "pir_sensor_plugin",
+					"version": "1.0.1",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/system_controller/pir_sensor_plugin/pir_sensor_plugin.zip",
+					"license": "ISC",
+					"description": "connected Pir Sensor should register passing people",
+					"details": "the pir sensor will recognize movement in the room. If it recognizes movement, the volumio client will start playing music in this room. If the sensor does not recognize movement for a certain amount of time, the music will stop.",
+					"author": "zer4x",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "7-12-2019"
 				}
 			]
 		},
